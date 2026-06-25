@@ -1,0 +1,9 @@
+streamlit
+feedparser
+requests
+fpdf
+newspaper3k
+trafilatura
+beautifulsoup4
+lxml
+Pillow
